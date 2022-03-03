@@ -6,7 +6,7 @@ import bgHeroMobile from "../images/bg-hero-mobile.svg";
 const Header = () => {
   return (
     <header className="relative mb-[3.688rem] flex h-[45.063rem] w-full max-w-[26.75rem] flex-col items-center bg-[#EDFBFF]">
-      <div className="absolute left-0 top-0 w-full">
+      <div className="absolute left-0 top-0">
         <img className="w-full" src={bgHeroMobile} alt="" />
       </div>
       <Navbar />
