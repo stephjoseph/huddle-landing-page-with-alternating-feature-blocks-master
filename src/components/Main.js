@@ -6,7 +6,7 @@ import CTA from "./CTA";
 
 const Main = () => {
   return (
-    <main className="flex w-[20.938rem] flex-col items-center gap-[7.5rem]">
+    <main className="z-10 flex w-[20.938rem] flex-col items-center gap-[7.5rem]">
       <div className="flex w-full flex-col items-center gap-10">
         <Grow />
         <Conversations />
