@@ -3,7 +3,7 @@ import illustrationConversations from "../images/illustration-flowing-conversati
 
 const Conversations = () => {
   return (
-    <section className="flex w-full flex-col items-center gap-6 rounded-[16px] px-10  pb-14 pt-6 shadow-[0px_0px_14px_0px_rgba(0,0,0,0.07)]">
+    <section className="flex w-full flex-col items-center gap-6 rounded-[16px] bg-white px-10  pb-14 pt-6 shadow-[0px_0px_14px_0px_rgba(0,0,0,0.07)]">
       <div className="h-[16rem] w-[16rem]">
         <img src={illustrationConversations} alt="" />
       </div>
