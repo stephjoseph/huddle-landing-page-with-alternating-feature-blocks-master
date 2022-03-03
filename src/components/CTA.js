@@ -2,7 +2,7 @@ import React from "react";
 
 const CTA = () => {
   return (
-    <section className="flex w-[22rem] flex-col items-center gap-6 rounded-[16px] px-[0.75rem] py-[2.563rem] text-center shadow-[0px_0px_14px_0px_rgba(0,0,0,0.07)]">
+    <section className=" flex w-[22rem] flex-col items-center gap-6 rounded-[16px] bg-white px-[0.75rem] py-[2.563rem] text-center shadow-[0px_0px_14px_0px_rgba(0,0,0,0.07)]">
       <h2 className="font-['Poppins'] text-lg font-semibold leading-[1.875rem] tracking-normal text-[#00252E]">
         Ready To Build Your Community?
       </h2>
