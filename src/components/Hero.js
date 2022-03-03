@@ -16,7 +16,7 @@ const Hero = () => {
           </p>
         </div>
         <a
-          className="flex h-10 w-[15rem] items-center justify-center rounded-[20px] bg-[#FF52C1] text-[0.75rem] font-bold leading-4 tracking-normal text-white shadow-[2px_3px_6px_1px_rgba(255,82,193,0.1662)] xl:h-14 xl:w-[17.5rem] xl:rounded-[28px] xl:text-[0.875rem] xl:leading-[1.188rem]"
+          className="flex h-10 w-[15rem] items-center justify-center rounded-[20px] bg-[#FF52C1] text-[0.75rem] font-bold leading-4 tracking-normal text-white shadow-[2px_3px_6px_1px_rgba(255,82,193,0.1662)] active:bg-[#FF9ADB] xl:h-14 xl:w-[17.5rem] xl:rounded-[28px] xl:text-[0.875rem] xl:leading-[1.188rem]"
           href="#get-started"
         >
           Get Started For Free
