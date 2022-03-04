@@ -7,7 +7,7 @@ const CTA = () => {
         Ready To Build Your Community?
       </h2>
       <a
-        className="flex h-10 w-[12.5rem] items-center justify-center rounded-[20px] bg-[#FF52C1] text-[0.625rem] font-bold leading-[0.938rem] tracking-normal text-white shadow-[0px_3px_7px_rgba(0,37,46,0.2231)] active:bg-[#FF9ADB] xl:h-20 xl:w-[25rem] xl:rounded-[40px] xl:text-xl xl:leading-[1.875rem] xl:shadow-[0px_6px_13px_rgba(0,37,46,0.2231)]"
+        className="active`:bg-[#FF9ADB] flex h-10 w-[12.5rem] items-center justify-center rounded-[20px] bg-[#FF52C1] text-[0.625rem] font-bold leading-[0.938rem] tracking-normal text-white shadow-[0px_3px_7px_rgba(0,37,46,0.2231)] xl:h-20 xl:w-[25rem] xl:rounded-[40px] xl:text-xl xl:leading-[1.875rem] xl:shadow-[0px_6px_13px_rgba(0,37,46,0.2231)]"
         href="#"
       >
         Get Started For Free
